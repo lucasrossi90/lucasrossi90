@@ -1,8 +1,9 @@
 body {align-content: center;}
+
 div#marco {
     position: absolute;
-    width: 601px;
-    height: 427px;
+    width: 650px;
+    height: 450px;
     top: 0px;
     bottom: 0px;
     left: 0px;
@@ -11,26 +12,22 @@ div#marco {
     border-style:solid;
     border-color:black;
 }
-div#marco > img {
-  max-width: 600px;
-  max-height: 450px;
-}
 
-div#marco #logo > a img {
-  width: 492px;
-  height: 325px;
+div#marco #logo > img {
+  width: 608px;
+  height: 393px;
 }
 
 div#logo {
   position: absolute;
-  top: 52px;
-  left: 54px;
+  top: 30px;
+  left: 26px;
 }
 #icons {
    position: absolute;
    bottom: 24px;
-   left: 138px;
- }
+   left: 183px;
+    }
 
 #facebook img {
   width: 30px;
