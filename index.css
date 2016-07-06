@@ -33,25 +33,25 @@ div#icons {
 #facebook img {
   width: 35px;
   height: 35px;
+  margin-right: 15px;
 }
 
 #instagram img {
   width: 35px;
   height: 35px;
-  margin-left: 10px;
+  margin-right: 15px;
 }
 
 #telefono img {
   width: 35px;
   height: 35px;
   margin-left: 10px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 #posicion img {
   width: 35px;
   height: 35px;
-  margin-left: 10px;
 }
 
 div#mails {
@@ -68,7 +68,7 @@ span#email {
 span#mail > img {
    width: 35px;
   height: 35px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 span#number {
@@ -78,4 +78,8 @@ span#number {
 
 span#telefono {
   margin-right: 15px;
+}
+
+a:hover {
+   text-decoration: none;
 }
