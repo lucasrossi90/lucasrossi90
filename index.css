@@ -31,26 +31,26 @@ div#icons {
     }
 
 #facebook img {
-  width: 32px;
-  height: 32px;
+  width: 35px;
+  height: 35px;
 }
 
 #instagram img {
-  width: 32px;
-  height: 32px;
+  width: 35px;
+  height: 35px;
   margin-left: 10px;
 }
 
 #telefono img {
-  width: 32px;
-  height: 32px;
+  width: 35px;
+  height: 35px;
   margin-left: 10px;
   margin-right: 5px;
 }
 
 #posicion img {
-  width: 32px;
-  height: 32px;
+  width: 35px;
+  height: 35px;
   margin-left: 10px;
 }
 
@@ -66,8 +66,8 @@ span#email {
 }
 
 span#mail > img {
-   width: 32px;
-  height: 32px;
+   width: 35px;
+  height: 35px;
   margin-right: 5px;
 }
 
